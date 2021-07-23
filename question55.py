@@ -1,0 +1,6 @@
+num = {'physics': 80, 'math': 90, 'chemistry': 86}
+# list=list(num)
+# print(list)
+print(list(num)[0])
+print(list(num)[1])
+print(list(num)[2])
